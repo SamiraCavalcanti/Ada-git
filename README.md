@@ -1,2 +1,3 @@
-# Ada-git
-Curso Digital Git
+# Ada-git/git versionamento
+
+Ada Curso Digital Git
